@@ -3,13 +3,13 @@ import 'package:flutter/material.dart';
 import 'package:pharmacy_ak/firebase_options.dart';
 import 'package:pharmacy_ak/home_page.dart';
 import 'package:pharmacy_ak/notes/b.pharm/b_pharm.dart';
+import 'package:pharmacy_ak/notes/b.pharm/first_year/b_pharm_1.dart';
 import 'package:pharmacy_ak/notes/b.pharm/four_year/b_pharm_4.dart';
 import 'package:pharmacy_ak/notes/b.pharm/second_year/b_pharm_2.dart';
 import 'package:pharmacy_ak/notes/b.pharm/third_year/b_pharm_3.dart';
-import 'package:pharmacy_ak/notes/b.pharm/first_year/b_pharm_1.dart';
 import 'package:pharmacy_ak/notes/d_pharm/d_pharm.dart';
-import 'package:pharmacy_ak/notes/d_pharm/part_2/d_pharm_2.dart';
 import 'package:pharmacy_ak/notes/d_pharm/part_1/d_pharm_1.dart';
+import 'package:pharmacy_ak/notes/d_pharm/part_2/d_pharm_2.dart';
 
 void main() async {
   WidgetsFlutterBinding.ensureInitialized();
